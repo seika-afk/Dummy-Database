@@ -1,4 +1,9 @@
 // started Creating in jan-2025
+/*
+git add .
+git commit -m  "second commit"
+git push -u origin master
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
